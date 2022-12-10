@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.b1375413.css",
-    "main.js": "/my-app/static/js/main.f8ae834d.js",
-    "static/media/STM_wallpaper.jpg": "/my-app/static/media/STM_wallpaper.3850625672e4732c080a.jpg",
-    "index.html": "/my-app/index.html",
-    "main.b1375413.css.map": "/my-app/static/css/main.b1375413.css.map",
-    "main.f8ae834d.js.map": "/my-app/static/js/main.f8ae834d.js.map"
+    "main.css": "/Diffusion_website/static/css/main.b1375413.css",
+    "main.js": "/Diffusion_website/static/js/main.82b4b8ba.js",
+    "static/media/STM_wallpaper.jpg": "/Diffusion_website/static/media/STM_wallpaper.3850625672e4732c080a.jpg",
+    "index.html": "/Diffusion_website/index.html",
+    "main.b1375413.css.map": "/Diffusion_website/static/css/main.b1375413.css.map",
+    "main.82b4b8ba.js.map": "/Diffusion_website/static/js/main.82b4b8ba.js.map"
   },
   "entrypoints": [
     "static/css/main.b1375413.css",
-    "static/js/main.f8ae834d.js"
+    "static/js/main.82b4b8ba.js"
   ]
 }
