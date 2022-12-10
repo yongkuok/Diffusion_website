@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1375413.css",
+    "main.js": "/static/js/main.0de6a307.js",
+    "static/media/STM_wallpaper.jpg": "/static/media/STM_wallpaper.3850625672e4732c080a.jpg",
+    "index.html": "/index.html",
+    "main.b1375413.css.map": "/static/css/main.b1375413.css.map",
+    "main.0de6a307.js.map": "/static/js/main.0de6a307.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1375413.css",
+    "static/js/main.0de6a307.js"
+  ]
+}
