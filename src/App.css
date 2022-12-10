@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background-color: whitesmoke;
+  /* background-image: url("./images/STM_AMK_wallpaper.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; */
 }
 
 .App-logo {

@@ -1,0 +1,7 @@
+.nav {
+  color: lightgray;
+}
+
+.nav:hover {
+  color: white;
+}
