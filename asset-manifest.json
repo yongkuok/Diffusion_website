@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Diffusion_website/static/css/main.b1375413.css",
-    "main.js": "/Diffusion_website/static/js/main.82b4b8ba.js",
-    "static/media/STM_wallpaper.jpg": "/Diffusion_website/static/media/STM_wallpaper.3850625672e4732c080a.jpg",
-    "index.html": "/Diffusion_website/index.html",
-    "main.b1375413.css.map": "/Diffusion_website/static/css/main.b1375413.css.map",
-    "main.82b4b8ba.js.map": "/Diffusion_website/static/js/main.82b4b8ba.js.map"
+    "main.css": "/Diffusion_website/my-app/build/static/css/main.b1375413.css",
+    "main.js": "/Diffusion_website/my-app/build/static/js/main.a3d9b63d.js",
+    "static/media/STM_wallpaper.jpg": "/Diffusion_website/my-app/build/static/media/STM_wallpaper.3850625672e4732c080a.jpg",
+    "index.html": "/Diffusion_website/my-app/build/index.html",
+    "main.b1375413.css.map": "/Diffusion_website/my-app/build/static/css/main.b1375413.css.map",
+    "main.a3d9b63d.js.map": "/Diffusion_website/my-app/build/static/js/main.a3d9b63d.js.map"
   },
   "entrypoints": [
     "static/css/main.b1375413.css",
-    "static/js/main.82b4b8ba.js"
+    "static/js/main.a3d9b63d.js"
   ]
 }
