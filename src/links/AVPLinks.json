@@ -1,0 +1,56 @@
+{
+  "AVPLinks": [
+    {
+      "name": "Shift Report",
+      "href": "file://AMKFILER1.amk.st.com/AMK6FAB/Diffusion_Ops_Passdown/2019"
+    },
+    {
+      "name": "Lots On Hold",
+      "href": "http://sglx120.amk.st.com/amk6/iss/LotOnHold.html"
+    },
+    {
+      "name": "Entity Status",
+      "href": "http://sglx120.amk.st.com/amk6/iss/DIFF.html"
+    },
+    {
+      "name": "Long Down Tools",
+      "href": "http://amkpd.amk.st.com:48080/eLongDown/login.do"
+    },
+    {
+      "name": "DIFF Moves Charts",
+      "href": "file://amkfiler1.amk.st.com/AMK6FAB/Prod6/Daily/K6_SG8%20Prod_Report_auto/SGF_Prodcharts.xlsm"
+    },
+    {
+      "name": "Daily DIFF SPC Highlight",
+      "href": "file://amkfiler1/amk6fab/SPC_Report/AMK6%20Process%20Drift%20Monitoring/DIFF.pdf"
+    },
+    {
+      "name": "DIFF Daily Quality Report",
+      "href": "file://amkfiler1/amk6fab/ProcEng6/MODULE%20DQR/DIFF%20DQR_Daily.htm"
+    },
+    {
+      "name": "QRCI: J9",
+      "href": "file://amkfiler1.amk.st.com/AMK5FAB/Equipment5/3.Diff/J9%20QRCI%20in%20Diffusion%20Website/J9%20Diffusion%20QRCI%20DAILY%20Updates.xlsx"
+    },
+    {
+      "name": "QRCI: K6/SG8",
+      "href": "file://amkfiler1.amk.st.com/AMK6FAB/Diffusion6/K6%20QRCI%20&%20SAFETY%20%20in%20Diffusion%20Website/QRCI%20K6%20DAILY%20Updates.xlsx"
+    },
+    {
+      "name": "Safety Alert",
+      "href": "file://amkfiler1.amk.st.com/AMK6FAB/Diffusion6/K6%20QRCI%20&%20SAFETY%20%20in%20Diffusion%20Website/Yr%202020%20SAFETY%20FLASH%20AVP.pptx"
+    },
+    {
+      "name": "AVP COVID-19 Updates",
+      "href": "file://amkfiler1/amk6fab/Diffusion6/K6%20QRCI%20&%20SAFETY%20%20in%20Diffusion%20Website/COVID-19%20Updates%20on%20AVP.pdf"
+    },
+    {
+      "name": "AMK Fab COVID-19 News",
+      "href": "http://best.st.com/Locations/Singapore/Pages/COVID-19.aspx"
+    },
+    {
+      "name": "links",
+      "href": ["a", "b"]
+    }
+  ]
+}
